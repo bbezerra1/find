@@ -1,0 +1,9 @@
+12
+10000
+Problema: Anoura fistulata (um morcego nectarivaro) tem uma lingua muito longa, destoando do padrão de outras especies proximas
+Pergunta: Por que ele tem a língua tão longa?
+Hipotese 1: O morcego utiliza a lingua para adquirir alimento de alguma fonte que requira esse nível de especificidade
+Hipotese 2: hipótese unica
+Premissa 1: Animais e plantas altamente especializados uns com os outros tendem a coevoluir
+Premissa 2: Coevolução tende a gerar adaptações extremas
+Premissa 3: O morcego em questão tem uma adaptação extrema
